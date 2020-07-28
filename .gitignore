@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /vscode
-.gradle
+/.gradle
 C:\Users\ASUS\.gradle
 C:\Users\ASUS\.vscode

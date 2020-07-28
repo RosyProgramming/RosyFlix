@@ -39,7 +39,7 @@ export const VideoCardList = styled.ul`
   padding-bottom: 32px;
   list-style: none;
   display: flex;
-  overflow-x: auto;
+  overflow-x:hidden;
   flex-direction: row;
   
   li {
