@@ -24,4 +24,4 @@
     $ npm start
 
 <h3>🖼 Layout</h3>
-<img width='300' src="./src/assets/img/Layout.png">
+<img width='200' src="./src/assets/img/Layout.PNG">
