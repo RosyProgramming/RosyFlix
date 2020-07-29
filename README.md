@@ -1,4 +1,4 @@
-<p align='center'><img width='200' src="./src/assets/img/Logo.png"/></p>
+<p align='center'><img width='200' src="./src/assets/img/imersao-react-logo.svg"/></p>
 <h1 align='center'>RosyFlix<b>ImersãoReact- Alura </h1>
 
 <h3>🔖 Descrição</h3>
