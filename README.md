@@ -2,8 +2,8 @@
 <h1 align='center'>RosyFlix</h1>
 
 <h3>🔖 Descrição</h3>
-<p>Criação do AluraFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
-
+<p> A semana da #ImersãoReact consite em criar uma aplicação web com react, do zero!<p>
+<h5>5 Aulas exclusivas e inéditas,desenvolvendo a AluraFlix.</h5>
 
 <h3>🚀 Tecnologias</h3>
 <ul>
@@ -24,4 +24,4 @@
     $ npm start
 
 <h3>🖼 Layout</h3>
-<img width='200' src="./src/assets/img/Layout.PNG">
+<img width='400' src="./src/assets/img/Layout.PNG">
