@@ -1,3 +1,4 @@
+/* eslint-disable eol-last */
 import styled from 'styled-components';
 
 export const VideoContainer = styled.div`
