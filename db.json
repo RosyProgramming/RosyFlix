@@ -1,0 +1,276 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Filmes",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aqui você encontra os melhores filmes",
+        "url": "https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wMnZ4bhIiUEx6akZiYUZ6c21NVEZRZGN1bVZFcTh3VUZPc2dNa1hMag%3D%3D"
+      }
+    },
+    {
+      "id": 1,
+      "titulo": "Séries",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Divirta-se!",
+        "url": "https://maxseries.tv/com/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Tecnologias",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de tecnologias e négocios digitais - Plataforma da Alura ",
+        "url": "https://www.alura.com.br/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Games",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Podcast",
+      "cor": "red",
+      "link_extra": {
+        "text": "Inglês do zero",
+        "url": "https://www.youtube.com/watch?v=fcuBqnMG2z0&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Músicas",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "As músicas mas tocadas do momento",
+        "url": "https://www.youtube.com/watch?v=PonV0HsEwTU"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "A Barraca do Beijo 2",
+      "url": "https://www.youtube.com/watch?v=7Ubz2PV2lu0"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Id: A - Identidade Anônima",
+      "url": "https://www.youtube.com/watch?v=0uKalSR0l8M"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "A Barraca do Beijo 2",
+      "url": "https://www.youtube.com/watch?v=7Ubz2PV2lu0"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A culpa das estrelas",
+      "url": "https://www.youtube.com/watch?v=8PDn3dJPQX0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "O sol da meia noite",
+      "url": "https://www.youtube.com/watch?v=NLI_1uYg3r4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Na mira do atirador",
+      "url": "https://www.youtube.com/watch?v=KkreKZ35uhI"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Mr.Roboto #4",
+          "url": "https://www.youtube.com/watch?v=9fFoTYHl9us&list=PLewainQOTVMH_ogyQXvBSb9R60DG9c7hH"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Anne Withine",
+      "url": "https://www.youtube.com/watch?v=bBervTlBurY"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "13 Reasons Why",
+      "url": "https://www.youtube.com/watch?v=poUq9ypynKs"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "O último dragão",
+      "url": "https://www.youtube.com/watch?v=iILEnNmlqwk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "O atirador",
+      "url": "https://www.youtube.com/watch?v=5ELjX0ElcBg"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Retaliação",
+      "url": "https://www.youtube.com/watch?v=ZKuI8SVnFgQ"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "HTML e CSS",
+          "url": "https://www.youtube.com/watch?v=ql0-0_taZpk&list=PLh2Y_pKOa4UfHbRqfiiI4uWik2MOKHRfL"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Como aprender a programar?",
+      "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Melhor forma de aprender Python",
+      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Como ingressar no mercado de Data Science?",
+      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Qual a diferença entre Inteligência Artificial, Machine Learning, Data Science, Deep Learning, etc?",
+      "url": "https://www.youtube.com/watch?v=ccZ2pyr3YDw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Programar em JavaScript",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "text": "Formação de Jogos na Alura",
+      "url": "https://www.alura.com.br/formacao-jogos-unity"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "God of War 4",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "Resident Evil 8",
+      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Pokémon Let's Go Pikachu/Eevee",
+      "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+    },
+   {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Alfabeto em Inglês",
+      "url": "https://www.youtube.com/watch?v=bl3c8IYRoR0&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=2"
+    },
+   {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Como aprender inglês",
+      "url": "https://www.youtube.com/watch?v=YiFiE5TKfS8"
+    },
+    { 
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Como se apresentar em inglês",
+      "url": "https://www.youtube.com/watch?v=mpgNwg4iXxA&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=8"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "Treine seu Listening",
+      "url": "https://www.youtube.com/watch?v=JQiN9Xut-6U"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Números em inglês",
+      "url": "https://www.youtube.com/watch?v=IBKnoqvuDAg&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=3"
+    },
+   {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Números em inglês",
+      "url": "https://www.youtube.com/watch?v=IBKnoqvuDAg&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=3"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+      "url": "https://www.youtube.com/watch?v=RgKAFK5djSk&list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "Ana Vitória - Partilhar",
+      "url": "https://www.youtube.com/watch?v=WkLpoUiasZ8"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "Shawn Mendes - Never Be Alone",
+      "url": "https://www.youtube.com/watch?v=N7VCLNBNJQs"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "Meu abrigo - Melim",
+      "url": "https://www.youtube.com/watch?v=gUpGTRR4Tt4"
+    },
+   {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Jason Mraz - I Won't Give Up (Official Video)",
+      "url": "https://www.youtube.com/watch?v=O1-4u9W-bns"
+    }
+  ]
+}
