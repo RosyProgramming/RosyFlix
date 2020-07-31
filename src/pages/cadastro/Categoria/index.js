@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
@@ -28,20 +27,17 @@ function CadastroCategoria() {
       infosDoEvento.target.value,
     );
   }
-
+  
   useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
-      fetch(URL)
-        .then(async (respostaDoServer) => {
-          if (respostaDoServer.ok) {
-            const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
-        });
-    }
+    console.log('alo br');
+    const URL_TOP = 'http://localhost:8080/categorias';
+    fetch('URL_TOP')
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+        setCategorias([
+          ...resposta,
+        ]);
+      });
   }, []);
 
   return (
@@ -90,11 +86,15 @@ function CadastroCategoria() {
           Cadastrar
         </Button>
       </form>
+
       {categorias.length === 0 && (
-      <div>
-        Loading...
-      </div>
+          <div>
+            {/* Carregando... */}
+            Loading...
+          </div>
       )}
+      
+      
       <ul>
         {categorias.map((categoria) => (
           <li key={`${categoria.nome}`}>
