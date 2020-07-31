@@ -34,8 +34,10 @@ function CadastroCategoria() {
     fetch('http://localhost:8080/categorias')
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
-        console.log(resposta);
-      })
+        setCategorias([
+          ...resposta,
+        ]);
+      });
   }, []);
 
   return (
