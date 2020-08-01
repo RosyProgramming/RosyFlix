@@ -99,12 +99,6 @@
       "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
     },
     {
-      "id": 8,
-      "categoriaId": 2,
-      "titulo": "Mr.Roboto #4",
-      "url": "https://www.youtube.com/watch?v=9fFoTYHl9us&list=PLewainQOTVMH_ogyQXvBSb9R60DG9c7hH"
-    },
-    {
       "id": 9,
       "categoriaId": 2,
       "titulo": "Anne Withine",
@@ -135,18 +129,6 @@
       "url": "https://www.youtube.com/watch?v=ZKuI8SVnFgQ"
     },
     {
-      "id": 14,
-      "categoriaId": 3,
-      "titulo": "HTML e CSS",
-      "url": "https://www.youtube.com/watch?v=ql0-0_taZpk&list=PLh2Y_pKOa4UfHbRqfiiI4uWik2MOKHRfL"
-    },
-    {
-      "id": 15,
-      "categoriaId": 3,
-      "titulo": "Como aprender a programar?",
-      "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-    },
-    {
       "id": 16,
       "categoriaId": 3,
       "titulo": "Melhor forma de aprender Python",
@@ -165,12 +147,6 @@
       "url": "https://www.youtube.com/watch?v=ccZ2pyr3YDw"
     },
     {
-      "id": 19,
-      "categoriaId": 3,
-      "titulo": "Programar em JavaScript",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI"
-    },
-    {
       "id": 20,
       "categoriaId": 4,
       "titulo": "Final Fantasy 7",
@@ -185,103 +161,68 @@
     {
       "id": 22,
       "categoriaId": 4,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "titulo": "PS5 Games",
+      "url": "https://www.youtube.com/watch?v=zjixgch1fIE"
     },
     {
       "id": 23,
       "categoriaId": 4,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Counter Terrorist",
+      "url": "https://www.youtube.com/watch?v=v2bEaI_Gd0k"
     },
     {
       "id": 24,
-      "categoriaId": 4,
-      "titulo": "Pokémon Let's Go Pikachu/Eevee",
-      "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+      "categoriaId": 5,
+      "titulo": "Inglês com música",
+      "url": "https://www.youtube.com/watch?v=e0_XXauFGAE"
     },
     {
       "id": 25,
       "categoriaId": 5,
-      "titulo": "Alfabeto em Inglês",
-      "url": "https://www.youtube.com/watch?v=bl3c8IYRoR0&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=2"
+      "titulo": "Conversa em inglês",
+      "url": "https://www.youtube.com/watch?v=6amVVfrI-d8"
     },
     {
       "id": 26,
       "categoriaId": 5,
-      "titulo": "Como aprender inglês",
-      "url": "https://www.youtube.com/watch?v=YiFiE5TKfS8"
+      "titulo": "Não sei inglês, e agora?",
+      "url": "https://www.youtube.com/watch?v=keMIEpZxQNI"
     },
     {
       "id": 27,
       "categoriaId": 5,
-      "titulo": "Como se apresentar em inglês",
-      "url": "https://www.youtube.com/watch?v=mpgNwg4iXxA&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=8"
+      "titulo": "Inglês para iniciantes",
+      "url": "https://www.youtube.com/watch?v=S45kHeWnT0M"
     },
     {
       "id": 28,
-      "categoriaId": 5,
-      "titulo": "Treine seu Listening",
-      "url": "https://www.youtube.com/watch?v=JQiN9Xut-6U"
+      "categoriaId": 6,
+      "titulo": "Wiz Khalifa - See You Again ft. Charlie Puth",
+      "url": "https://www.youtube.com/watch?v=RgKAFK5djSk"
     },
     {
       "id": 29,
-      "categoriaId": 5,
-      "titulo": "Números em inglês",
-      "url": "https://www.youtube.com/watch?v=IBKnoqvuDAg&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=3"
-    },
-    {
-      "id": 30,
-      "categoriaId": 5,
-      "titulo": "Números em inglês",
-      "url": "https://www.youtube.com/watch?v=IBKnoqvuDAg&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=3"
-    },
-    {
-      "id": 31,
-      "categoriaId": 6,
-      "titulo": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
-      "url": "https://www.youtube.com/watch?v=RgKAFK5djSk&list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh"
-    },
-    {
-      "id": 32,
       "categoriaId": 6,
       "titulo": "Ana Vitória - Partilhar",
       "url": "https://www.youtube.com/watch?v=WkLpoUiasZ8"
     },
     {
-      "id": 33,
+      "id": 30,
       "categoriaId": 6,
       "titulo": "Shawn Mendes - Never Be Alone",
       "url": "https://www.youtube.com/watch?v=N7VCLNBNJQs"
     },
     {
-      "id": 34,
+      "id": 31,
       "categoriaId": 6,
       "titulo": "Meu abrigo - Melim",
       "url": "https://www.youtube.com/watch?v=gUpGTRR4Tt4"
     },
     {
-      "id": 35,
+      "titulo": "Anna Kendrick - Cups (Pitch Perfect’s “When I’m Gone”) [Official Video]",
+      "url": "https://www.youtube.com/watch?v=cmSbXsFE3l8",
       "categoriaId": 6,
-      "titulo": "Jason Mraz - I Won't Give Up (Official Video)",
-      "url": "https://www.youtube.com/watch?v=O1-4u9W-bns"
-    },
-    {
-      "titulo": "",
-      "url": "https://www.youtube.com/watch?v=keMIEpZxQNI",
-      "categoriaId": 1,
-      "id": 36
-    },
-    {
-      "titulo": "tentativa",
-      "url": "https://www.youtube.com/watch?v=keMIEpZxQNI",
-      "categoriaId": 3,
-      "id": 37
-    },
-    {
-      "titulo": "eu sou demais",
-      "categoriaId": 1,
-      "id": 38
+      "id": 32
     }
   ]
 }

@@ -125,16 +125,12 @@
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "PS5 Games",
+          "url": "https://www.youtube.com/watch?v=zjixgch1fIE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Counter Terrorist",
+          "url": "https://www.youtube.com/watch?v=v2bEaI_Gd0k"
         }
       ]
     },
@@ -143,28 +139,24 @@
       "cor": "red",
       "link_extra": {
         "text": "Inglês do zero",
-        "url": "https://www.youtube.com/watch?v=fcuBqnMG2z0&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt"
+        "url": "https://inglesdozeropodcast.com.br/"
       },
       "videos": [
         {
-          "titulo": "Alfabeto em Inglês",
-          "url": "https://www.youtube.com/watch?v=bl3c8IYRoR0&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=2"
+          "titulo": "Inglês com música",
+          "url": "https://www.youtube.com/watch?v=e0_XXauFGAE"
         },
         {
-          "titulo": "Como aprender inglês",
-          "url": "https://www.youtube.com/watch?v=YiFiE5TKfS8"
+          "titulo": "Conversa em inglês",
+          "url": "https://www.youtube.com/watch?v=6amVVfrI-d8"
         },
         {
-          "titulo": "Como se apresentar em inglês",
-          "url": "https://www.youtube.com/watch?v=mpgNwg4iXxA&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=8"
+          "titulo": "Não sei inglês, e agora?",
+      "url": "https://www.youtube.com/watch?v=keMIEpZxQNI"
         },
         {
-          "titulo": "Treine seu Listening",
-          "url": "https://www.youtube.com/watch?v=JQiN9Xut-6U"
-        },
-        {
-          "titulo": "Números em inglês",
-          "url": "https://www.youtube.com/watch?v=IBKnoqvuDAg&list=PLQkjMmezYs424-Vb7_5HiY4mQFj92G_dt&index=3"
+          "titulo": "Inglês para iniciantes",
+          "url": "https://www.youtube.com/watch?v=S45kHeWnT0M"
         }
       ]
     },
@@ -178,7 +170,7 @@
       "videos": [
         {
           "titulo": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
-          "url": "https://www.youtube.com/watch?v=RgKAFK5djSk&list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh"
+          "url": "https://www.youtube.com/watch?v=RgKAFK5djSk"
         },
         {
           "titulo": "Ana Vitória - Partilhar",
@@ -191,10 +183,6 @@
         {
           "titulo": "Meu abrigo - Melim",
           "url": "https://www.youtube.com/watch?v=gUpGTRR4Tt4"
-        },
-        {
-          "titulo": "Jason Mraz - I Won't Give Up (Official Video)",
-          "url": "https://www.youtube.com/watch?v=O1-4u9W-bns"
         }
       ]
     }
