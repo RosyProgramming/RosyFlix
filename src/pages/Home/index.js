@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 /* eslint-disable no-console */
 import React, { useEffect, useState } from 'react';
 // import dadosIniciais from '../../data/dados_iniciais.json';
@@ -32,7 +33,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription={dadosIniciais[0].videos[0].description}
+                videoDescription="Em seu último ano na escola, Elle terá que lidar com o namoro à distância com Noah, mudanças na amizade com Lee e um crush inesperado."
               />
               <Carousel
                 ignoreFirstVideo
@@ -53,7 +54,9 @@ function Home() {
       {/* <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription="O que"
+        // eslint-disable-next-line max-len
+        // eslint-disable-next-line max-len
+        videoDescription="Em seu último ano na escola, Elle terá que lidar com o namoro à distância com Noah, mudanças na amizade com Lee e um crush inesperado."
       />
       <Carousel
         ignoreFirstVideo
